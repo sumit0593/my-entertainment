@@ -3,7 +3,7 @@ import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import ListGroup from 'react-bootstrap/ListGroup';
-import { BsFacebook, BsLinkedin, BsTwitter, BsStackOverflow, BsGoogle, BsGithub, BsYoutube } from "react-icons/bs";
+import { BsFacebook, BsLinkedin, BsTwitter, BsGithub, BsYoutube } from "react-icons/bs";
 import './style.css';
 const  ContactContainer = ()=>{
     const myData = [
